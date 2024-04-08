@@ -5,4 +5,4 @@
 
 
 
-###  _O que é VS Code? O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela Microsoft_
+###  _O que é VS Code? O Visual Studio Code (VS Code) é um editor de código de código aberto desenvolvido pela MicrosoftA melhor escolha para desenvolvedores JavaScript e Web, com toneladas de extensões dar suporte a praticamente qualquer linguagem de programação. Quer saber qual ferramenta é melhor para você? Podemos ajudar._
